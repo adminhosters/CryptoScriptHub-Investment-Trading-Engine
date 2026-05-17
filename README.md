@@ -1,5 +1,15 @@
 # CryptoScriptHub Investment & Trading Engine
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adminhosters/CryptoScriptHub-Investment-Trading-Engine/refs/heads/main/file_00000000cf4872438068509ab9cca293.png" width="220" alt="CryptoScriptHub Logo">
+</p>
+
+<h1 align="center">CryptoScriptHub Investment & Trading Engine</h1>
+
+<p align="center">
+Build • Trade • Invest • Automate
+</p>
+
 > Build. Trade. Automate. Scale.
 
 CryptoScriptHub is a powerful Laravel-based multi-asset investment and trading platform engineered for modern crypto entrepreneurs, automated trading networks, fintech startups, and digital investment communities.
