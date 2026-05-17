@@ -1,5 +1,3 @@
-# CryptoScriptHub Investment & Trading Engine
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/adminhosters/CryptoScriptHub-Investment-Trading-Engine/refs/heads/main/file_00000000cf4872438068509ab9cca293.png" width="220" alt="CryptoScriptHub Logo">
 </p>
