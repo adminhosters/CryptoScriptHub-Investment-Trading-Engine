@@ -230,7 +230,8 @@ DM us directly on Telegram for:
 
 Or visit:
 
-- Community: https://t.me/cryptoscripthub
+📧 Email: mailto:cryptoscripthub@gmail.com
+🌐 Community: https://t.me/cryptoscripthub
 
 ---
 
