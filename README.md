@@ -230,7 +230,6 @@ DM us directly on Telegram for:
 
 Or visit:
 
-- Website: https://cryptoscripthub.com
 - Community: https://t.me/cryptoscripthub
 
 ---
